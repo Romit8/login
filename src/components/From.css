@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#login-form{
+   background-image: url('/public/images/backgroundimg.jpg'); 
+   background-size: 100% 100%;
+   object-fit: contain;
+   background-repeat: no-repeat;
+   height: 570px;
+}
+.alert_login{
+    margin-top: 100px;
+}
+.label{
+    color: white;
+}
+.login-btn{
+    display: flex;
+    justify-content: center;
+    
+}
+button{
+width: 40%;
+}
